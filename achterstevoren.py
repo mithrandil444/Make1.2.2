@@ -7,7 +7,7 @@ bron : https://www.w3schools.com/python/python_howto_reverse_string.asp
 
 __author__ = "Sven De Visscher"
 __email__ = "sven.devisscher@student.kdg.be"
-__status__ = "Development"
+__status__ = "Finished"
 
 
 # CONFIGURING I/O

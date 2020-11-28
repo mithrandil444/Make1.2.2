@@ -7,7 +7,7 @@ bron : https://www.youtube.com/watch?v=HOqTyB9GzHA
 
 __author__ = "Sven De Visscher"
 __email__ = "sven.devisscher@student.kdg.be"
-__status__ = "Development"
+__status__ = "Finished"
 
 
 # Deze functie telt 2 getallen op
