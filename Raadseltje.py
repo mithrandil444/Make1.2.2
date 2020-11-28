@@ -9,7 +9,7 @@ __email__ = "sven.devisscher@student.kdg.be"
 __status__ = "Development"
 
 
-# CONFIGURING I/O
+# Variabelen
 sporten = ["voetbal", "skiën", "squash", "tennis", "zwemmen"]
 guess = input("Enter guess: ")
 
@@ -19,7 +19,7 @@ def main():
         print("You win")
 
     else:
-        print("Try again")
+        print("You lose")
 
 
 

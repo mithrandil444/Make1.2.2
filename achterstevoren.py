@@ -10,7 +10,7 @@ __email__ = "sven.devisscher@student.kdg.be"
 __status__ = "Finished"
 
 
-# CONFIGURING I/O
+# Vairabelen
 woord = input("typ hier een woord:  ") [::-1]   # Input dat vraagt of je een woord wilt ingeven
 """ [::-1] zorgt ervoor dat je ingegeven woord achterstevoren wordt uitgelezen. """
 
